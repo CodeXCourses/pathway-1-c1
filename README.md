@@ -2,7 +2,7 @@
 
 Welcome!
 
-Thank's for joining CodeX Academy. Here you will find a program overview, syllabus and schedule.
+Thanks for joining CodeX Academy. Here you will find a program overview, syllabus and schedule.
 
 ## Program Overview
 
