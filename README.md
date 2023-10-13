@@ -86,7 +86,7 @@ A HARD-FAIL means you will have to go back and study. You will need to meet with
 
 ### Self paced badges
 
-These badges will be done individually in your free time. Try to schedule some time to do these assignements yourself.
+These badges will be done individually in your free time. Try to schedule some time to do these assignments yourself.
 
 * [Browser Tools Badge Requirements](https://lib.opencomplib.org/software-development/tools/chrome1.html) and [VSCode Badge Requirements](https://lib.opencomplib.org/software-development/tools/vscode.html)
 * [Browser Tools Video 1](https://drive.google.com/file/d/1RiAYBUMLpzxiXfbt3KpcLeHJRJRAIXq-/view?usp=sharing)
