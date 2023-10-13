@@ -1,16 +1,24 @@
-# CodeX's Frontend Developer 1 Course
+# CodeX's Front-End Developer 1 Course
 
 Welcome!
 
-Thank's for joining CodeX Academy.
+Thank's for joining CodeX Academy. Here you will find a program overview, syllabus and schedule.
+
+## Program Overview
+
+Our program consists of 4 individual courses called Pathways. Each Pathway will last 1-2 months, and the program will last approximately 9 months. When you finish one Pathway, you will automatically be enrolled in the following Pathway. The first Pathway is Level 1 Front-End Developer. We will cover the following pathways in this program.
+
+* [Level 1 Front-End Developer](https://webdev.codex.academy/1)
+* [Level 2 Front-End Developer](https://webdev.codex.academy/2)
+* [Level 3 Front-End Developer](https://webdev.codex.academy/3)
+* [Level 4 Full-Stack Developer](https://webdev.codex.academy/4)
 
 ## Syllabus
 
 #### Classtime (All times Central Time)
 
-Saturday 9am - 12
-
-M-Th 6:30-9:30
+* Saturday 9am - noon
+* M-Th 6:30pm - 9:30pm
 
 #### Schedule for Pathway 1
 
@@ -33,23 +41,19 @@ Dec 2 - Week 7: Capstone Project
 
 #### Days off
 
-Veteran's day: Nov 11
-
-Thanksgiving: Nov 23 - 25
+* Veteran's day: Nov 11
+* Thanksgiving: Nov 23 - 25
 
 #### Instructor
 
-name: Robert McCreary 
-
-email: robert.mccreary@codex.academy
+* name: Robert McCreary 
+* email: robert.mccreary@codex.academy
 
 #### Teaching Assistant 
 
-name: Justine Oyaghiro
-
-email: justine.oyaghiro@codex.academy
-
-Tutoring Schedule: https://joyagh.github.io/calendly/
+* name: Justine Oyaghiro
+* email: justine.oyaghiro@codex.academy
+* Tutoring Schedule: https://joyagh.github.io/calendly/
 
 ### Grading Policy
 
