@@ -57,9 +57,9 @@ Tutoring Schedule: https://joyagh.github.io/calendly/
 
 Each week we will cover a different topic. After succesfully completing assignments and quizzes for the topic, you will earn a Badge.
 
-Each Badge will be grades as PASS/FAIL. You must pass all the the Badges to successfuly complete the course.
+Each Badge will be graded as PASS/FAIL. You must pass all the the Badges to successfuly complete the course.
 
-You PASS a badge, you must get 85% on the assignments and quizzes for the week. 
+To PASS a badge, you must get 85% on the assignments and quizzes for the week. 
 
 Scoring between 60%-85% is a SOFT-FAIL and you will be giving the oppurtunity to re-do the assignments for the week.
 
@@ -80,7 +80,9 @@ A HARD-FAIL means you will have to go back and study. You will need to meet with
 
 * [Pathway 1 Diagram](https://codexacademy.badgr.com/public/pathway/5df3b7bc46e0fb002140cd03)
 
-### Week 0
+### Self paced badges
+
+These badges will be done individually in your free time. Try to schedule some time to do these assignements yourself.
 
 * [Browser Tools Badge Requirements](https://lib.opencomplib.org/software-development/tools/chrome1.html) and [VSCode Badge Requirements](https://lib.opencomplib.org/software-development/tools/vscode.html)
 * [Browser Tools Video 1](https://drive.google.com/file/d/1RiAYBUMLpzxiXfbt3KpcLeHJRJRAIXq-/view?usp=sharing)
@@ -118,5 +120,7 @@ A HARD-FAIL means you will have to go back and study. You will need to meet with
 * [Capstone Badge Requirements](https://webdev.codex.academy/capstone1)
 
 ### Help Seeker Badge
+
+This is a special badge showing you know where to go for help. Please post a question and have it answered on a public forum.
 
 * [Help Seeker Badge Requirements](https://codex-academy-official.github.io/badges/questions.html)
