@@ -96,15 +96,18 @@ These badges will be done individually in your free time. Try to schedule some t
 ### Week 1
 
 * [HTML Badge Requirements](https://lib.opencomplib.org/software-development/languages/html/html1.html)
+* See syllbus for videos.
 
 
 ### Week 2
 
 * [CSS Badge Requirements](https://lib.opencomplib.org/software-development/languages/css/css1.html)
+* See syllbus for videos.
 
 ### Week 3
 
 * [Bootstrap Badge Requirements](https://lib.opencomplib.org/software-development/technologies/frontend/bootstrap1.html)
+* [Video Playlist](https://www.youtube.com/playlist?list=PLrIeWrctIf7X7m_mlHjhMIJifbDAQHN_r)
 
 ### Week 4
 
