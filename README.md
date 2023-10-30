@@ -102,7 +102,7 @@ These badges will be done individually in your free time. Try to schedule some t
 ### Week 2
 
 * [CSS Badge Requirements](https://lib.opencomplib.org/software-development/languages/css/css1.html)
-* See syllbus for videos.
+* See syllabus for videos.
 
 ### Week 3
 
