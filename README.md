@@ -107,6 +107,7 @@ These badges will be done individually in your free time. Try to schedule some t
 ### Week 3
 
 * [Bootstrap Badge Requirements](https://lib.opencomplib.org/software-development/technologies/frontend/bootstrap1.html)
+* Monday: [Reference Video](https://scrimba.com/learn/bootstrap4/responsive-grid-systems-cdm3asD) This video introduces the 12 column grid system in just 7 minutes. MUST WATCH. (requires free sign up.)
 * [Video Playlist](https://www.youtube.com/playlist?list=PLrIeWrctIf7X7m_mlHjhMIJifbDAQHN_r)
 
 ### Week 4
